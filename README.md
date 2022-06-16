@@ -102,7 +102,7 @@ In summary, metrics for all models:
 
 >![Summary stats](https://user-images.githubusercontent.com/97558998/173938367-b1704514-e8ec-4b78-a385-393c01989ab2.png)
 
-The Easy Ensemble AdaBoost Classifier would be the best model to choose for this dataset, with an accuracy rate of 93%. However, the model still has a low precision score for high-risk loans, and even though it’s better than the other models, we would still see a large number of false positives for high-risk loans. The high recall scores for both high- and low-risk loans indicate that we would see a very few false negatives.
+The Easy Ensemble AdaBoost Classifier would be the best model to choose for this dataset, with an accuracy rate of 93%. However, the model still has a low precision score for high-risk loans, and even though it’s better than the other models, we still see a large number of false positives for high-risk loans. The high recall scores for both high- and low-risk loans indicate that we would see a very few false negatives.
 
 
 
